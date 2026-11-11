@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.wisper2904.pokeduel",
+      "sha256_cert_fingerprints": ["03:72:F0:96:8E:63:FA:56:A9:1B:01:DF:1A:ED:F7:4A:0F:10:86:FD:37:F5:17:50:20:97:5E:83:82:C0:05:A4"]
+    }
+  }
+]
